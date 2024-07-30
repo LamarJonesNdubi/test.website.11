@@ -1,0 +1,12 @@
+.box{
+    background-color: hsl(208, 100%, 97%);
+    border: solid 2px;
+    padding: 25px;
+    box-sizing: border-box;
+    height: auto;
+    width: 50%;
+    float: left;
+}
+body{
+    background-color: rgb(243, 43, 43);
+}
